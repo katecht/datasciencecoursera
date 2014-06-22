@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-## Assignment for John's Hopkins Data Scientist's Toolbox class
+### Assignment for John's Hopkins Data Scientist's Toolbox class
